@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "About me"
-  bio              : " "
+  bio              : "A Tech-savvy Foodie who loves to learn and share"
   location         : "France"
   employer         : "Lactalis Group"
   email            : "nguyen.doan@hotmai.com"
@@ -49,7 +49,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/npdoan/"
+  linkedin         : # npdoan
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
