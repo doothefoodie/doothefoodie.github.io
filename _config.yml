@@ -23,33 +23,28 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "About me"
-  bio              : " "
+  pronouns         : # example: "she/her"  
+  bio              : 
   location         : "France"
   employer         : "Lactalis Group"
-  email            : "nguyen.doan@hotmai.com"
-
+  uri              : # URL
+  email            : "nguyen.doan@hotmail.com" 
+ 
   # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-
+ 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
+ @@ -57,7 +53,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/npdoan/"
+  linkedin         : "https://www.linkedin.com/in/npdoan/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
