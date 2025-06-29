@@ -3,7 +3,7 @@ title: "IoT application to monitor vehicle exhaust pipe"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'A monitoring device that helps reduce air pollution and prevent vehicle explosions'
+excerpt: 'A monitoring device that helps reduce air pollution and prevent vehicle explosions. The project was conducted during the CommTECH Camp, for which I got a fully funded scholarship to participate'
 date: 2019-02-15
 venue: 'Institut Teknologi Sepuluh Nopember (ITS), Indonesia'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
