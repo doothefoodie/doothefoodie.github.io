@@ -6,16 +6,16 @@
 
 main:
   - title: "Achievements"
-    url: /publications/
+    url: /Achievements/
     
-  - title: "Food Blog"
-    url: /year-archive/ 
+  - title: "Food Blogs"
+    url: /Food Blogs/ 
 
  # - title: "Teaching"
  #   url: /teaching/    
     
   - title: "Drawings"
-    url: /portfolio/
+    url: /Drawings/
     
   - title: "CV"
     # url: /cv/
