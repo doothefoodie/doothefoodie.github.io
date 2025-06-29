@@ -14,7 +14,7 @@ citation: ''
 I was in charge of the full product development: formulation, pilot trials, package design, market and pricing benchmarking."
 Result: Successfully launched these products in Vietnam, China, and Singapore, and recently Canada.
 
-![image](https://github.com/user-attachments/assets/1777b01f-e2fc-4672-81a0-3772d96cbf2c)
+![image](https://github.com/user-attachments/assets/1777b01f-e2fc-4672-81a0-3772d96cbf2c){:.align-right with="300px"}
 The 3 saucissons with 3 flavors
 
 ![image](https://github.com/user-attachments/assets/a3e579fb-b8e6-491c-bcac-e0c598475f91)
