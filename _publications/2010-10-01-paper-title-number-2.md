@@ -7,7 +7,7 @@ excerpt: 'A monitoring device that helps reduce air pollution and prevent vehicl
 date: 2019-02-15
 venue: 'Institut Teknologi Sepuluh Nopember (ITS), Indonesia'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: ''
 citation: ''
 ---
 Tools: Sensors and Arduino electronics platform
