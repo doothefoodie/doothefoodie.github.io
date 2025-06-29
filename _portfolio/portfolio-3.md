@@ -1,5 +1,5 @@
 ---
-title: "Pencil Portrait Nguyen Nhat Anh - my Vietnamese fav author "
-excerpt: "Pencil Portrait<br/><img src='/images/20170428_224512.jpg'>"
+title: "Pencil Portrait - Nguyen Nhat Anh"
+excerpt: "Portrait of my Vietnamese favorite author, from his photo<br/><img src='/images/20170428_224512.jpg'>"
 collection: portfolio
 ---
