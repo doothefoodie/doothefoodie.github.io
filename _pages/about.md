@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-Hi, I’m a passionate foodie who looooves eating and exploring food through every lens — from not only the flavor delights but also the traditional, cultural and historical roots behind each dish.
+Hi, I’m a passionate foodie who looooves eating and exploring food through every lens: not only the flavor delights but also the traditional, cultural and historical roots behind each dish.
 
 My food journey truly began in 2021, when I landed in 5 EU countries thanks to a fully-funded scholarship from the European Commission to pursue a Master’s degree in Food Science.
 
