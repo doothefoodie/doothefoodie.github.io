@@ -3,7 +3,7 @@ title: " Mobile application “Food Surfing” for local food tourism"
 collection: publications
 category: Mobile app prototype
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '"Food surfing" is an application gathering foodies and local food producers worldwide and providing home-based local meals with culture exchange'
+excerpt: 'Food surfing" is an application gathering foodies and local food producers worldwide and providing home-based local meals with culture exchange'
 date: 2022-05-20
 venue: 'University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
