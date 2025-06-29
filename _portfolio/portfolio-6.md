@@ -1,7 +1,8 @@
 ---
 title: "Pencil Portrait"
-excerpt: "Pencil Portrait<br/><img src='/images/20170422_205229.jpg'>"
+excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240814_161031799.PORTRAIT.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+process 
+![PXL_20240707_174344185](https://github.com/user-attachments/assets/d155fb18-2ed3-4c76-9d5a-fb480009bea8)
