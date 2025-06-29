@@ -18,3 +18,5 @@ My food journey truly began in 2021, when I landed in 5 EU countries thanks to a
 Along my trainings, I discovered a love for digital technologies and gradually pivoted toward IT — one of my favorite side projects being the creation of this very website!
 
 Today, I work at the intersection of food and technology, driven by an ambition to help empower the food industry through digital solutions.
+
+Afterwork, I love spending time in the nature 🌳🌴 urban drawing, cycling, wandering, swimming and recently learning kayak
