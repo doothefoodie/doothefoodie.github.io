@@ -1,6 +1,6 @@
 ---
 title: "My first Water Color - Jardin de la Perrine"
-excerpt: "Pencil Portrait<br/><img src='/images/PXL_20250531_175246374.jpg'>"
+excerpt: "Water color<br/><img src='/images/PXL_20250531_175246374.jpg'>"
 collection: portfolio
 ---
 
