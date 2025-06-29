@@ -10,5 +10,8 @@ slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: ''
 ---
-Objectives: reducing air pollution and prevent vehicle explosion
+Objectives: reducing air pollution and preventing vehicle explosion
 Tools: Sensors and Arduino electronics platform
+
+Project poster:
+![image](https://github.com/user-attachments/assets/ed833724-ee41-49a5-857a-3e57e8a3d0f5)
