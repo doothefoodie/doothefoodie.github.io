@@ -3,14 +3,17 @@ title: "New product: Minisaucissons Asian flavors"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '3 innovative mini-saucissons I developed from scratch, with delightful Asian herbs entwined with French traditional know-how'
 date: 2021-01-09
 venue: 'Vietnam, China, Singapore, Canada'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
 citation: ''
 ---
+
+For the first time ever, delightful Asian herbs and spices are entwined with French traditional know-how, creating a unique degusting experience. The tangy lemongrass, aromatic pepper, spicy chili, and a note of Vietnamese Pho (anis and cinnamon). The new flavor profiles are sure to impress even the most discerning taste buds 
+
 I was in charge of the full product development: formulation, pilot trials, package design, market and pricing benchmarking."
 Result: Successfully launched these products in Vietnam, China, and Singapore, and recently Canada.
 
