@@ -1,6 +1,6 @@
 ---
-title: "Acrylic Orange"
-excerpt: "My 2nd Acrylic<br/><img src='/images/PXL_20240611_184713650.jpg'>"
+title: "Acrylic - Cute Orange"
+excerpt: "My 2nd Acrylic drawing, finished with the last droplets of "donated paints" from a friend haha. Click in to see my mess<br/><img src='/images/PXL_20240611_184713650.jpg'>"
 collection: portfolio
 ---
 
