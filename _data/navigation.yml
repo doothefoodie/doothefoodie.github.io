@@ -22,8 +22,8 @@ main:
   - title: "Achievements"
     url: /publications/
 
-  - title: "Updates"
-    url: /talks/   
+#  - title: "Updates"
+#    url: /talks/   
     
 #  - title: "Guide"
 #    url: /markdown/
