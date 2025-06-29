@@ -1,6 +1,7 @@
 ---
 title: "Acrylic Orange"
-excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240611_184713650.jpg'>"
+excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240410_181154434.PORTRAIT.ORIGINAL.jpg
+'>"
 collection: portfolio
 ---
 
