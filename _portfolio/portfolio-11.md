@@ -1,6 +1,6 @@
 ---
-title: "My first Micropen - Lyon Church"
-excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240531_192810016.jpg'>"
+title: "Micropen - Lyon Church"
+excerpt: "My first Micropen<br/><img src='/images/PXL_20240531_192810016.jpg'>"
 collection: portfolio
 ---
 Process:
