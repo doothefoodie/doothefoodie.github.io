@@ -1,7 +1,11 @@
 ---
-title: "Pencil Portrait Taylor Swift"
-excerpt: "Pencil Portrait<br/><img src='/images/20170729_193849.jpg'>"
+title: "My first Water Color - Jardin de la Perrine"
+excerpt: "Pencil Portrait<br/><img src='/images/PXL_20250531_175246374.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Process:
+![image](https://github.com/user-attachments/assets/bf1ceef8-69ee-4d97-8ebd-79948cc8efcb)
+
+![image](https://github.com/user-attachments/assets/12dd6644-78a1-4dbd-b2d0-ef91340143f7)
+
