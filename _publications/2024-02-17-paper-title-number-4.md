@@ -1,9 +1,9 @@
 ---
-title: "Water filtering system for rural areas of Vietnam"
+title: "Water filtering system"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: '2nd prize at "IU Green Product" competition'
+excerpt: 'A sustainable water filtering system for rural areas of Vietnam, which won the 2nd prize at "IU Green Product" competition'
 date: 2018-01-20
 venue: 'International University, Vietnam'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
