@@ -1,7 +1,7 @@
 ---
-title: "Pencil Portrait Taylor Swift"
-excerpt: "Pencil Portrait<br/><img src='/images/20170729_193849.jpg'>"
+title: "My first Micropen - Lyon Church"
+excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240531_192810016.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Process:
+![PXL_20240531_192306686](https://github.com/user-attachments/assets/52d2d181-817f-4594-b090-0dddc05c304f)
