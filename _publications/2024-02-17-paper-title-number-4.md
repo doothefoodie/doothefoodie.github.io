@@ -1,9 +1,9 @@
 ---
 title: "Water filtering system for rural areas of Vietnam"
 collection: publications
-category: Green Idea Prototype
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2018-01-20
 venue: 'International University, Vietnam'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
