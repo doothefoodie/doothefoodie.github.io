@@ -1,6 +1,6 @@
 ---
-title: "Pencil Portrait Taylor Swift"
-excerpt: "Pencil Portrait<br/><img src='/images/20170729_193849.jpg'>"
+title: "Pencil Portrait - Taylor Swift"
+excerpt: "Pencil portrait from her photo<br/><img src='/images/20170729_193849.jpg'>"
 collection: portfolio
 ---
 
