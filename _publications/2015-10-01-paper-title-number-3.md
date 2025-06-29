@@ -1,7 +1,7 @@
 ---
 title: " Mobile application “Food Surfing” for local food tourism"
 collection: publications
-category: Mobile app prototype
+category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'An application gathering foodies and local food producers worldwide and providing home-based local meals with culture exchange'
 date: 2022-05-20
