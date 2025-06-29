@@ -1,6 +1,6 @@
 ---
-title: "Micropen - Lyon Church"
-excerpt: "My first Micropen<br/><img src='/images/PXL_20240531_192810016.jpg'>"
+title: "Pencil-Nature"
+excerpt: "Random sketch in Jadin de la Perrine<br/><img src='/images/PXL_20250601_165731608.jpg'>"
 collection: portfolio
 ---
 Process:
