@@ -1,7 +1,8 @@
 ---
-title: "Pencil Portrait"
-excerpt: "Pencil Portrait<br/><img src='/images/20170422_205229.jpg'>"
+title: "Acrylic Orange"
+excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240611_184713650.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My 2nd Acrylic 
+![PXL_20240611_184120622](https://github.com/user-attachments/assets/b78f78af-5f72-48f9-aeb5-e78fea19eb37)
