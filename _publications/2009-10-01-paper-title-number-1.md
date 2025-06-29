@@ -1,11 +1,15 @@
 ---
 title: "New product: Minisaucissons Asian flavors"
 collection: publications
-category: Food R&D
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-01-09
-venue: 'Vietnam, China, Singapore'
+venue: 'Vietnam, China, Singapore, Canada'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: ''
 ---
 I was in charge of the full product development: formulation, pilot trials, package design, market and pricing benchmarking."
 Result: Successfully launched these products in Vietnam, China, and Singapore, and recently Canada.
