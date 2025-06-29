@@ -1,6 +1,6 @@
 ---
 title: "Pencil - Cliff"
-excerpt: "Pencil Portrait<br/><img src='/images/PXL_20241005_231359525.MP.jpg'>"
+excerpt: "Pencil sketch from a random pic on internet<br/><img src='/images/PXL_20241005_231359525.MP.jpg'>"
 collection: portfolio
 ---
 
