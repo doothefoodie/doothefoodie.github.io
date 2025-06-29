@@ -18,7 +18,7 @@ About me
 👩‍🎓 My food journey took a major turn in 2021, when I landed in Europe thanks to a fully-funded scholarship from the European Commission to pursue a Master’s degree in Food Science in 5 EU countries.
 
 ### A technophile
-💻 Along the way, I discovered a love for digital technologies and gradually pivoted toward IT. I taught myself new skills like SQL and Groovy, and worked on IT projects about IoT, Blockchain, LIMS, Data migration. 👉 One of the projects I’m proud of? - This very website! 😊
+💻 Along the way, I discovered a love for digital technologies and gradually pivoted toward IT. I taught myself new skills like SQL and Groovy, and worked on IT projects about IoT, Blockchain, LIMS, Data migration. 👉 A personal project I’m proud of? - This very website! 😊
 
 🔬🌐 Today, I work in the intersection of FOOD SCIENCE and DIGITAL TECH in France, with digital solutions like Block chain, MES, LIMS, etc.
 
