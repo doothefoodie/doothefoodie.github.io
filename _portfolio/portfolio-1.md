@@ -1,6 +1,6 @@
 ---
 title: "Pencil Portrait"
-excerpt: "Pencil Portrait<br/><img src=600px'/images/20170422_205229.jpg'>"
+excerpt: "Pencil Portrait<br/><img src='/images/20170422_205229.jpg'>"
 collection: portfolio
 ---
 
