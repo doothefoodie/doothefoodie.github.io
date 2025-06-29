@@ -1,6 +1,6 @@
 ---
 title: "Micro pen Lyon at Night"
-excerpt: "Pencil Portrait<br/><img src='/PXL_20240815_004905718.MP.jpg'>"
+excerpt: "Pencil Portrait<br/><img src='/images/PXL_20240815_004905718.MP.jpg'>"
 collection: portfolio
 ---
 
