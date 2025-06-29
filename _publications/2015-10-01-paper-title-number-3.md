@@ -12,5 +12,7 @@ citation: ''
 ---
 Objectives: "Food surfing" is an application gathering foodies and local food producers worldwide and providing home-based local meals with culture exchange
 Tools: as a project leader, I developed user stories, prototyping, UX/UI design using Slack and Figma
+
 Link of the demonstration video: https://drive.google.com/file/d/1ioT-AWKBK5TbS0LQWFad_TioHtDP8c98/view?usp=sharing
+
 ![Capture d’écran 2025-06-29 213017](https://github.com/user-attachments/assets/adac37b1-c7a6-4d1a-b580-18f70c980e5a)
