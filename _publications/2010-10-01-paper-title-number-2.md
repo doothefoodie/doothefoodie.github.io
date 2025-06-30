@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'A monitoring device with integrated sensors that provides real-time updates on the generated heat and CO2 level. Therefore, it mitigates the risk of vehicle explosions, and predicts the expiration date of the exhaust pipe to reduce air pollution'
 date: 2019-02-15
 venue: 'Institut Teknologi Sepuluh Nopember (ITS), Indonesia'
-slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
+slidesurl: 'https://github.com/doothefoodie/doothefoodie.github.io/blob/master/files/slides4.pdf'
 ---
 Tools: Sensors, IoT and Arduino electronics platform
 
