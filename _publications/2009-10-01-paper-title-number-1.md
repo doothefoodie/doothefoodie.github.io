@@ -6,10 +6,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '3 innovative mini-saucissons I developed from scratch, with delightful Asian herbs entwined with French traditional know-how. They were successfully launched in Vietnam, China, Singapore, Canada'
 date: 2023-09-01
 venue: 'Vietnam, China, Singapore, Canada'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: ''
 ---
 
 For the first time ever, delightful Asian herbs and spices are entwined with French traditional know-how, creating a unique degusting experience. The tangy lemongrass, aromatic pepper, spicy chili, and a note of Vietnamese Pho (anis and cinnamon). The new flavor profiles are sure to impress even the most discerning taste buds 
