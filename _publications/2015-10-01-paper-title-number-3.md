@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'An mobile app connecting foodies worldwide for home-based local meals with culture exchange. The project won the First Prize at an Agro-business competition'
 date: 2022-05-20
 venue: 'University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca'
-slidesurl: 'http://academicpages.github.io/files/slides5.pdf'
+slidesurl: 'https://github.com/doothefoodie/doothefoodie.github.io/blob/master/files/slides5.pdf'
 ---
 Tools: as a project leader, I developed user stories, prototyping, UX/UI design using Slack and Figma
 
