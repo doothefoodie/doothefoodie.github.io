@@ -1,11 +1,10 @@
 ---
-title: "Water filtering system"
+title: "Student research projet: Effects of encapsulating materials and inlet-air temperatures on physicochemical properties and bioactive compounds of spray-dried Rhodomyrtus Tomentosa product"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'A sustainable water filtering system for rural areas of Vietnam, which won the 2nd prize at "IU Green Product" competition'
-date: 2018-01-20
-venue: 'International University, Vietnam'
+date: 2019-12-06
+venue: 'The International Science Forum 2019 - New Material Technology for Sustainable Development, Ho Chi Minh City, Vietnam. No.:46-GCN/KHCN'
 ---
-Secured the 2nd prize at "IU Green Product" competition organized by International University and the Regional Center of Expertise on Education for Sustainable Development
-![image](https://github.com/user-attachments/assets/313bc6b1-9725-430b-a708-0f01d0c919b6)
+
