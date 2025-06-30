@@ -19,7 +19,7 @@ main:
     # url: /cv/
     url: /files/CV.pdf
 
-  - title: "Achievements"
+  - title: "Projects"
     url: /publications/
 
 #  - title: "Updates"
