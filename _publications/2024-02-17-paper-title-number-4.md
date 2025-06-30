@@ -8,3 +8,7 @@ date: 2019-12-06
 venue: 'The International Science Forum 2019 - New Material Technology for Sustainable Development, Ho Chi Minh City, Vietnam. No.:46-GCN/KHCN'
 ---
 It was fully funded by Viet National University and conducted at the same time with courseworks at my Bachelor's program
+
+Research poster:
+![image](https://github.com/user-attachments/assets/fa04d7e0-17e4-4b01-9e9d-94d36306ea69)
+
