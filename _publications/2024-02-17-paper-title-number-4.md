@@ -3,8 +3,7 @@ title: "Student research projet: Effects of encapsulating materials and inlet-ai
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'A sustainable water filtering system for rural areas of Vietnam, which won the 2nd prize at "IU Green Product" competition'
+excerpt: 'The research aims to develop an antioxidant-rich food colorant from R.Tomentosa forest fruit by micro-encapsulation using spray technology. Fully Funded by Viet National University and conducted at the same time with courseworks at my Bachelor's Degree.'
 date: 2019-12-06
 venue: 'The International Science Forum 2019 - New Material Technology for Sustainable Development, Ho Chi Minh City, Vietnam. No.:46-GCN/KHCN'
 ---
-
