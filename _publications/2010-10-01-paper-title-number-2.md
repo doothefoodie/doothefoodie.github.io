@@ -8,7 +8,9 @@ date: 2019-02-15
 venue: 'Institut Teknologi Sepuluh Nopember (ITS), Indonesia'
 slidesurl: 'http://academicpages.github.io/files/slides4.pdf'
 ---
-Tools: Sensors and Arduino electronics platform
+Tools: Sensors, IoT and Arduino electronics platform
+
+Description: This device provides real-time updates on the risk of vehicle overheating. Therefore, it predicts the expiration date of the exhaust pipe by monitoring CO levels, mitigating air pollution and promoting environmental sustainability.
 
 Project poster:
 ![image](https://github.com/user-attachments/assets/bd22be72-1b20-43dc-9d30-10df337a2d26)
