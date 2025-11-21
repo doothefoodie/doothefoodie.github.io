@@ -55,6 +55,6 @@ table, tr, td {
 <tr><td>  Apr. 2021: </td> <td> Thrilled to be chosen among 24 worldwide students for the prestigious Erasmus Mundus merit-based scholarship, from the European Commission.
 </td></tr> 
 
-  ## Visitors
-
+  
+## Visitors
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=036506&w=300&t=tt&d=5oJu8y7BkIq1c04OrOwPBLJmkvOhrY6-NA0mUB6s_es&co=ffffff&cmo=f47200&cmn=f79426'></script>
