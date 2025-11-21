@@ -6,10 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Untitled design](https://github.com/user-attachments/assets/9c4ab4fe-eb3b-4178-894c-fc1dc87164fd)
-
-<br />
+<img src="https://github.com/user-attachments/assets/9c4ab4fe-eb3b-4178-894c-fc1dc87164fd" width="400" />
 
 About me
 ------
@@ -28,7 +25,6 @@ About me
 🌳 After work, I love spending time in the nature: urban drawing 🖌📸, cycling 🚴‍♂️, wandering🚶‍♀️, swimming 🏊 and learning kayak 🚣‍♀️.
 
 🗣 I keep improving my French. It's my 3rd language after English and Vietnamese
-<br />
 
 ## Updates
 <style>
