@@ -28,6 +28,7 @@ About me
 🌳 After work, I love spending time in the nature: urban drawing 🖌📸, cycling 🚴‍♂️, wandering🚶‍♀️, swimming 🏊 and learning kayak 🚣‍♀️.
 
 🗣 I keep improving my French. It's my 3rd language after English and Vietnamese
+<br />
 
 ## Updates
 <style>
