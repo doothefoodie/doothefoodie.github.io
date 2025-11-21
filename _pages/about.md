@@ -74,5 +74,5 @@ table, tr, td {
 
 ## Visitors
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=104f33&w=400&t=tt&d=Kar4GGHZHp1tuvgiXRhbTlC6UdGZgcHgpDOQYeFZkb4&co=ffffff&cmo=ba64f2&cmn=0ee8be&ct=3f3d35'></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=036506&w=a&t=n&d=5oJu8y7BkIq1c04OrOwPBLJmkvOhrY6-NA0mUB6s_es&co=ffffff&cmo=f47200&cmn=53d353"></script>
 
