@@ -9,6 +9,8 @@ redirect_from:
 
 ![Untitled design](https://github.com/user-attachments/assets/9c4ab4fe-eb3b-4178-894c-fc1dc87164fd)
 
+<br />
+
 About me
 ------
 
