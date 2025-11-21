@@ -74,5 +74,4 @@ table, tr, td {
 
 ## Visitors
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=036506&w=a&t=n&d=5oJu8y7BkIq1c04OrOwPBLJmkvOhrY6-NA0mUB6s_es&co=ffffff&cmo=f47200&cmn=53d353"></script>
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=036506&w=200&t=tt&d=5oJu8y7BkIq1c04OrOwPBLJmkvOhrY6-NA0mUB6s_es&co=ffffff&cmo=f47200&cmn=5accf9'></script>
