@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my little world!"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## Hi, welcome to my little world!
 <img src="https://github.com/user-attachments/assets/9c4ab4fe-eb3b-4178-894c-fc1dc87164fd" 
-     style="display:block; margin:0 auto; width:600px; height:auto;" />
+     style="display:block; margin:0 auto; width:650px; height:auto;" />
 
 #### A foodie at heart
 🍜 I’m a passionate foodie who looooves eating and exploring food through every lens: not only the flavor delights but also the traditional, cultural and historical roots behind each dish. Since my student days, I’ve been traveling extensively to experience local cuisines and immerse myself in diverse cultures. 👉 How did I afford all that travel as a student? - by scholarship-hunting and exchange programs abroad!
