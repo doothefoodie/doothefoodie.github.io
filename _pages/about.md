@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://github.com/user-attachments/assets/9c4ab4fe-eb3b-4178-894c-fc1dc87164fd" 
+<img src="https://github.com/user-attachments/assets/539ed205-7f83-4c0e-b98a-87e4fb4e7cd3" 
      style="display:block; margin:0 auto; width:650px; height:auto;" />
 
 Welcome to my little world! About me?
