@@ -55,4 +55,4 @@ table, tr, td {
 </div>
 
 ## Visitors
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=036506&w=500&t=tt&d=5oJu8y7BkIq1c04OrOwPBLJmkvOhrY6-NA0mUB6s_es&co=ffffff&cmo=f47200&cmn=f79426'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=5oJu8y7BkIq1c04OrOwPBLJmkvOhrY6-NA0mUB6s_es'></script>
